@@ -1,0 +1,72 @@
+img {
+ display: block;
+ margin: 0 auto;
+}
+
+h2 {
+  color: #8c1717;
+  font-size: 35px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  font-family: 'Miltonian Tattoo', cursive;
+}
+
+h4 {
+   font-size: 15px;
+   text-align: right;
+} /* do link que diz Treinamento Basico */
+
+p {
+  font-size: 16px;
+  color: #00009c;
+  width: 775px;
+  border: 2px solid black;
+  background: #9f9f5f;
+/* border: mais um valor numeral para espandir a caixa de texto e não esquecer de colocar  px  e pra fechar o  ;  para concluir */
+/* paragrafo da Na investe.Poupan você tem mais Alta performance */
+}
+
+ul, li {
+   font-size: 13px;
+   line-height: 2;
+   color: darkred;
+   letter-spacing: 1px;
+}
+
+h3 {
+   font-size: 15px;
+   color: black;
+}
+
+ol, ol {
+   font-size: 15px;
+   color: #003153;
+   letter-spacing: 2px;
+   line-height: 1;
+   font-family: 'Secular One', sans-serif;
+}
+
+h6 {
+   text-align: right;
+   font-size: 20px;
+   color: #8c1717;
+   text-shadow: 3px -8px 5px #003153;
+}
+
+html {
+     font-size: 10px; /* px significa "pixels": o tamnaho da fonte base é agora de 10 pixels */
+     font-family: 'Open Sans', sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+}
+
+html {
+     background-color: #c0c0c0;
+}
+
+body {
+  width: 890px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 0 20px 20px 20px;
+  border: 3px solid black;
+}
